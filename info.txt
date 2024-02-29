@@ -1,0 +1,2 @@
+Problem-1 --> Write a program which takes an integer as input and print "YES, prime" if
+	      the number is prime otherwise "NO" 
