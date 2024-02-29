@@ -1,2 +1,3 @@
 Problem-1 --> Write a program which takes an integer as input and print "YES, prime" if
 	      the number is prime otherwise "NO" 
+Problem-2 --> Read the two numbers A & B from user. Calculate & print the sum of their factorials.
